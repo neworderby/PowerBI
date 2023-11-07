@@ -1,4 +1,4 @@
-PBI Dashboards using synthetic and open-surce data:
+PBI Dashboards using synthetic and open-source data:
 
  1. Customer shopping data with forecast of revenue:
 
