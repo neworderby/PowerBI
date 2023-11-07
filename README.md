@@ -6,4 +6,4 @@ PBI Dashboards using synthetic and open-surce data:
 
  https://github.com/neworderby/dbt_ml_retail.git
 
- ![](./PBI Dashboards/RetailDashboard.pbix)
+https://github.com/neworderby/PowerBI_dashboards/blob/1e95dc13dd133fb445e91a56759ab35fd39af350/PBI%20Dashboards/RetailDashboard.pbix
